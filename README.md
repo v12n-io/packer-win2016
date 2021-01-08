@@ -1,2 +1,2 @@
-# packer-win2016
-v12n repository for Packer Windows 2016 builds on vSphere
+# packer-win2019
+v12n repository for Packer Windows 2019 builds on vSphere
