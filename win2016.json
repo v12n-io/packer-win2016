@@ -89,8 +89,6 @@
                                     "./scripts/04-tlsconfig.ps1",
                                     "./scripts/10-createuser.ps1",
                                     "./scripts/40-ssltrust.ps1",
-                                    "./scripts/60-openssh.ps1",
-                                    "./scripts/80-ansible.ps1",
                                     "./scripts/95-enablerdp.ps1"
             ]
         }
